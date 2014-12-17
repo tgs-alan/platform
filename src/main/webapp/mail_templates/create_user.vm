@@ -1,0 +1,19 @@
+<html>
+	<body>
+		<p>Hi $name,</p>
+		
+		<p>Thank you for choosing $application.<br/>
+		
+		<p>We just need to verify your email address before you can share folders.<br/><br/></p>
+		
+		<p>
+		To proceed the registration please follow this link:<br/>
+		<a href="$link">$link</a><br/>
+		</p>
+		
+		<p>
+		Best regards,<br/>
+		$application team
+		</p>
+	</body>
+</html>
